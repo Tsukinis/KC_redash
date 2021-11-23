@@ -31,5 +31,5 @@ TOP-5 Products - топ-5 товаров по заказам. Само назв�
 Также можете ознакомиться с несколькими дашбордами, которые были выполнены за время прохождения курса.
   
 <li> http://redash.lab.karpov.courses/public/dashboards/NxAMw7m4EnHDHlG3Qkls1V6kanofOquKlMqmu8H1?org_slug=default
-<li> http://redash.lab.karpov.courses/public/dashboards/ofcsfEcifp4DKKZRElAPb1UsVjmlXXIU2I1SIW5E?org_slug=default
+<li> http://redash.lab.karpov.courses/public/dashboards/ofcsfEcifp4DKKZRElAPb1UsVjmlXXIU2I1SIW5E?org_slug=default (i.e. оконные функции)
  
