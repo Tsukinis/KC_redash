@@ -1,4 +1,4 @@
-# KC_redash
+# Karpov_Courses_Redash
 
 http://redash.lab.karpov.courses/public/dashboards/pUFhFU7MqPymwsa4EbL4MArgsU4DwbAVqfpzxD46?org_slug=default
 
